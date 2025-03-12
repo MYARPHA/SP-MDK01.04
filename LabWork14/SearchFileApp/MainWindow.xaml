@@ -1,0 +1,60 @@
+﻿<Window x:Class="SearchFileApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SearchFileApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <TextBox x:Name="FileAppTextBox"
+                 VerticalAlignment="Top"
+                 Width="400"
+                 Margin="10, 10, 0, 0"
+                 HorizontalAlignment="Left"
+                 />
+
+        <Button x:Name="SelectFolderButton"
+                Click="SelectFolderButton_Click"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Width="120"
+                Margin="10, 50, 0, 0"
+                Content="Выбрать каталог"
+                Background="LightPink"/>
+
+        <Label x:Name="SelectFolderLabel"
+               Content="Текущий каталог: "
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="10,91,0,0"
+               Width="400"/>
+
+        <Button x:Name="SearchButton"
+                Content="Найти"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Width="120"
+                Margin="10, 100, 0, 0"
+                Click="SearchButton_Click"
+                Background="LightPink"/>
+
+        <ListBox x:Name="FileResultsListBox"
+                 VerticalAlignment="Top"
+                 HorizontalAlignment="Left"
+                 Margin="10, 150, 10, 10"/>
+
+        <StackPanel Orientation="Horizontal" Margin="10, 90, 0 , 0">
+            
+                    <RadioButton x:Name="CurrentFolderRadioButton"
+                                 Content="Только в текущей папке"
+                                 IsChecked="True"
+                                 VerticalAlignment="Center"
+                                 Margin="0, 0, 10,0"/>
+            <RadioButton x:Name="IncludeSubFoldersRadioButton"
+                         Content="С учётом вложенных папок"
+                         VerticalAlignment="Center"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

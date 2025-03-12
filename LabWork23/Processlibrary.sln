@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processlibrary", "Processlibrary\Processlibrary.csproj", "{2EAE5717-1E22-4042-B1EE-A8FD46C021F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessApp", "ProcessApp\ProcessApp.csproj", "{633ED2DC-300A-4F68-B76D-A8AC01C5B3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAE5717-1E22-4042-B1EE-A8FD46C021F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAE5717-1E22-4042-B1EE-A8FD46C021F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAE5717-1E22-4042-B1EE-A8FD46C021F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAE5717-1E22-4042-B1EE-A8FD46C021F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633ED2DC-300A-4F68-B76D-A8AC01C5B3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633ED2DC-300A-4F68-B76D-A8AC01C5B3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633ED2DC-300A-4F68-B76D-A8AC01C5B3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633ED2DC-300A-4F68-B76D-A8AC01C5B3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B081C758-BDBA-48A1-AAF7-DCAA46E8742A}
+	EndGlobalSection
+EndGlobal

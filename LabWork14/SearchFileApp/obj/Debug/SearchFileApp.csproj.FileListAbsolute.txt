@@ -1,0 +1,15 @@
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.exe.config
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.exe
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\bin\Debug\SearchFileApp.pdb
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.csproj.AssemblyReference.cache
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\MainWindow.g.cs
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\App.g.cs
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp_MarkupCompile.cache
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp_MarkupCompile.lref
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\MainWindow.baml
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.g.resources
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.Properties.Resources.resources
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.csproj.GenerateResource.cache
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.csproj.CoreCompileInputs.cache
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.exe
+C:\Temp\ИСПП-35\SearchFileApp\SearchFileApp\obj\Debug\SearchFileApp.pdb

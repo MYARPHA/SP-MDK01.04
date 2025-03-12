@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE315B7A-7EF7-443F-903E-A295803945D1}|Task 3\\Task 3.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\lab11\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE315B7A-7EF7-443F-903E-A295803945D1}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F542B9-B4CF-4B44-B2C5-AB0851A5AC4A}|Task4\\Task4.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\lab11\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F542B9-B4CF-4B44-B2C5-AB0851A5AC4A}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7777B4EA-B35C-44EE-AD9D-A792EDABCA08}|Task2\\Task2.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\lab11\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7777B4EA-B35C-44EE-AD9D-A792EDABCA08}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2075E64D-29B8-4A23-B5B6-E890AE8344E9}|Lab11\\Task 1.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\lab11\\lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2075E64D-29B8-4A23-B5B6-E890AE8344E9}|Lab11\\Task 1.csproj|solutionrelative:lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:19:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Task 3\\Program.cs",
+              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task 3\\Program.cs",
+              "RelativeToolTip": "Task 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:04:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:48:50.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Lab11\\Program.cs",
+              "RelativeDocumentMoniker": "Lab11\\Program.cs",
+              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\Lab11\\Lab11\\Program.cs",
+              "RelativeToolTip": "Lab11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:32:11.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

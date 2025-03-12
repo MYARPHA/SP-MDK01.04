@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Processlibrary</name>
+    </assembly>
+    <members>
+        <member name="T:Processlibrary.TaskList">
+            <summary>
+            Класс TaskList содержит набор методов для работы с процессами.
+            </summary>
+        </member>
+        <member name="M:Processlibrary.TaskList.ShowAllprocess">
+            <summary>
+            Выводит список всех запущенных процессов.
+            </summary>
+        </member>
+        <member name="M:Processlibrary.TaskList.GetProcessWithMaxId">
+            <summary>
+            Находит процесс с наибольшим Id
+            </summary>
+            <returns>Объект с наибольшим ID или null, если процессы не найдены.</returns>
+        </member>
+        <member name="M:Processlibrary.TaskList.ShowProcessByName(System.String)">
+            <summary>
+            Выводит информацию о процессе по его имени.
+            </summary>
+            <param name="processName">Имя процесса.</param>
+        </member>
+        <member name="M:Processlibrary.TaskList.StartNewProcess(System.String)">
+            <summary>
+            Запускает новый процесс.
+            </summary>
+            <param name="processPath">Путь к файлу.</param>
+        </member>
+    </members>
+</doc>

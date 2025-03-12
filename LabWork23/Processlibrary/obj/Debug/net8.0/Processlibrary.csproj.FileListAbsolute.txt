@@ -1,0 +1,14 @@
+C:\Temp\ispp35\Processlibrary\Processlibrary\bin\Debug\net8.0\Processlibrary.deps.json
+C:\Temp\ispp35\Processlibrary\Processlibrary\bin\Debug\net8.0\Processlibrary.dll
+C:\Temp\ispp35\Processlibrary\Processlibrary\bin\Debug\net8.0\Processlibrary.pdb
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.AssemblyInfo.cs
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.sourcelink.json
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.dll
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\refint\Processlibrary.dll
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.pdb
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\ref\Processlibrary.dll
+C:\Temp\ispp35\Processlibrary\Processlibrary\bin\Debug\net8.0\Processlibrary.xml
+C:\Temp\ispp35\Processlibrary\Processlibrary\obj\Debug\net8.0\Processlibrary.xml
